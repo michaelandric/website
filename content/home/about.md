@@ -13,9 +13,12 @@ weight = 0
 [interests]
   title = "Interests"
   interests = [
+    "Neuroscience",
     "Artificial Intelligence",
+    "Data Science",
+    "Network Science",
+    "Language",
     "Computational Linguistics",
-    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -23,24 +26,22 @@ weight = 0
   title = "Education"
 
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Psychology (Cognition and Cognitive Neuroscience)"
+  institution = "The University of Chicago"
+  year = 2011
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Psychology"
+  institution = "University of California, Santa Cruz"
+  year = 2003
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My background includes Psychology, Neuroscience, Data Science, Analytics, Psycholinguistics, and collabortaions in computer science. Those are the areas in which I have some to expert (PhD) formal training and experience. See my [resume](https://drive.google.com/open?id=0By9vvQ5RjgcMemZuQThiT19aU2s). I'm also interested in artificial intelligence and basketball – not necessarily together but maybe we'll get there. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+<!---
+I've always been after ways to understand why people do what they do. I pursued this first in Psychology coursework, starting in high school and then as my major in college. At UC Santa Cruz, I studied metaphor and its basis as a conceptual framework for how we understand and behave in the world. While researching this, however, I questioned whether our behaviors relied on more mechanistic factors and whether there underlay a more reliable ground truth. I turned towards neuroscience and developing an undestanding of the interface between brain and behavior. 
+-->
+
