@@ -39,6 +39,6 @@ weight = 0
 
 # Biography
 
-My background includes Psychology, Neuroscience, Data Science, Analytics, Psycholinguistics, and collabortaions in computer science. Those are the areas in which I have some to expert (PhD) formal training and experience. See my [resume](https://drive.google.com/open?id=0By9vvQ5RjgcMaVJqSFY4N09kYUU). I'm also interested in artificial intelligence and basketball – not necessarily together but maybe we'll get there. 
+My background includes Psychology, Neuroscience, Data Science, Analytics, Psycholinguistics, and collabortaions in computer science. Those are the areas in which I have some to expert (PhD) formal training and experience. See my [resume here](https://drive.google.com/open?id=0By9vvQ5RjgcMaVJqSFY4N09kYUU). I'm also interested in artificial intelligence and basketball – not necessarily together but maybe we'll get there. 
 
 
