@@ -26,12 +26,17 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Brain, Language, Cognition"
+  tag = ".brain-and-language"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Network connectivity"
+  tag = ".brain-networks"
+
+
+[[filter]]
+  name = "CNARI"
+  tag = ".cnari"
 
 +++
 

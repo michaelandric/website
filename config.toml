@@ -1,6 +1,6 @@
-baseurl = "https://michaelandric.github.io"
+baseurl = "https://michaelandric.github.io/"
 title = "Michael Andric"
-copyright = "&copy; 2016 Michael Andric"
+copyright = "&copy; 2017 Michael Andric"
 languageCode = "en-us"
 theme = "academic"
 enableEmoji = true
